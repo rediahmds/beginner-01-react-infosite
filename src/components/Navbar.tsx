@@ -1,12 +1,11 @@
 import React from 'react';
+import logo from '../logo.svg';
 
 export default function Navbar() {
   return (
     <nav>
-      <img
-        src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg"
-        alt="React Logo"
-      />
+      <img src={logo} alt="React Logo" width={120} />
+      <h3>Project 01: React Info site</h3>
     </nav>
   );
 }
