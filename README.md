@@ -6,7 +6,9 @@ The project is ready to build, i think.
 
 ## The Tutorial I Learn from
 
-It was from freeCodeCamp's YouTube channel. The instructor is sooo good at explaining complex things so it's easy to understand.
+It was from freeCodeCamp's YouTube channel. The instructor, Bob Ziroll is sooo good at explaining things, so it's easy to understand. 
+
+Thank you freeCodeCamp and Bob 🙏
 
 Here's the tutorial:
 
