@@ -1,6 +1,8 @@
 # React Info Site
 
-This repo was part of my journey in learning React.js. In fact, this project was the first touch with React and Tailwind.
+This repo was part of my journey in learning React.js. In fact, this project was my first touch with React and Tailwind.
+
+The project is ready to build, i think.
 
 ## The Tutorial I Learn from
 
