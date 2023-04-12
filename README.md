@@ -2,7 +2,7 @@
 
 This repo was part of my journey in learning React.js. In fact, this project was my first touch with React and Tailwind.
 
-The project is ready to build, i think.
+The project is ready to build tho, so just run command `npm install` and then `npm run build`
 
 ## The Tutorial I Learn from
 
